@@ -1,0 +1,32 @@
+Project: University Enrollment and Course Management System
+
+Background:
+This a database for a university which is a mid-sized institution offering undergraduate and graduate programs across various departments. The current system for managing student enrollments, course offerings, faculty information, and classroom assignments is outdated and inefficient. The University aims to modernize its operations by developing a comprehensive database system to streamline these processes.
+
+University Administration:
+Responsible for overseeing academic operations and ensuring efficient resource allocation.
+
+Faculty Members: 
+In charge of teaching courses, managing class schedules, and monitoring student progress.
+
+Students: 
+Need access to course information, enrollment options, and academic advising services.
+
+IT Department: 
+Responsible for developing, deploying, and maintaining the database system.
+
+Student Management:
+The system should allow the creation and maintenance of student records, including personal details, enrollment status, and contact information.
+Students must be able to view their academic history, including past and current enrollments, grades, and major/minor declarations.
+
+Course Management:
+The system should maintain a catalog of courses offered by the university, including course details, prerequisites, and credit hours.
+Course information must be easily accessible to students, faculty, and advisors, with the ability to search and filter based on various criteria.
+
+Faculty Management:
+Faculty profiles, including personal details, contact information, and office hours, should be stored in the system.
+Faculty members should be able to view their teaching schedules, assigned courses, and student rosters.
+
+Classroom Assignment:
+The system should allocate classrooms to courses based on availability, capacity, and scheduling constraints.
+Classroom assignments should be optimized to minimize conflicts and maximize space
