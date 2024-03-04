@@ -1,4 +1,5 @@
 University Enrollment and Course Management System
+
 Overview A university needs a database to manage student enrollments, course offerings, faculty information, and classroom assignments. This document covers entities identification, relationships definition, database schema design, normalization, and the use of Docker for PostgreSQL and PGAdmin setup.
 
 Steps Overview Step 1: Identify and Understand Entities Entities like Customers, Apple Accounts, Mailshot Campaigns, Orders, and others are identified and described with attributes.
